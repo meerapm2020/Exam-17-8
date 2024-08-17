@@ -1,0 +1,15 @@
+1.Implement a program to calculate the factorial of a number using a for loop.
+2.Write a Dart program to print the digits of a number in reverse order using while loop.
+3.Create a simple password guessing game where the user has three chances to guess the correct password. Use a while loop to implement the game logic.
+4.Implement a menu-driven program that displays a menu with options such as add, subtract, multiply, and divide. Use a  while loop to repeatedly display the menu and execute the selected option until the user chooses to exit.
+5.Write a function in Dart called maxNumber that takes three numbers as arguments and returns the largest number.
+6.Write a function in Dart called isEven that takes a number as an argument and returns True if the number is even, and False otherwise.
+7.Write a function in Dart called createUser with parameters name, age, and isActive, where isActive has a default value of true.
+8.Write a program in Dart to print odd numbers between intervals using function.
+9.Write a program to check whether the entered string is palindrome or not.
+10.write a program to count the vowels in entered string.
+11.Write a dart program to generate multiplication tables of 1-9.
+12.Write a dart program to print 1 to 100 but not 41.
+13.Write a program to print a diamond pattern.
+14.Write a Dart program that asks the user to enter a negative integer. Use a while loop to continuously prompt the user until a valid negative integer is entered.
+15.Write a Dart program to add two numbers and print the result using callback function.
